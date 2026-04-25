@@ -54,6 +54,12 @@ Analyzing how pit stop strategy impacts race results across different circuit ty
 3. Visualize strategy effectiveness across track types
 4. Write findings summary
 
+# F1 Pit Stop Strategy Analysis 🏎️
+
+![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
+
 ---
 
 *This project will **hopefully** form part of my thesis: "Dai big data alla strategia di gara: l'uso dell'intelligenza artificiale in Formula 1"*
