@@ -1,5 +1,10 @@
 # F1 Pit Stop Strategy Analysis 🏎️
 
+![Python](https://img.shields.io/badge/python-3.10-blue.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
+
+
 > *From Big Data to Race Strategy: Using AI in Formula 1*
 
 Analyzing how pit stop strategy impacts race results across different circuit types in the 2025 F1 season.
@@ -53,12 +58,6 @@ Analyzing how pit stop strategy impacts race results across different circuit ty
 2. Build regression model to quantify strategy impact by circuit
 3. Visualize strategy effectiveness across track types
 4. Write findings summary
-
-# F1 Pit Stop Strategy Analysis 🏎️
-
-![Python](https://img.shields.io/badge/python-3.10-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
 
 ---
 
