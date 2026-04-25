@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "F1 Pit Stop Strategy Analysis"
+message: "If you use this dataset or analysis, please cite it as below."
+authors:
+  - family-names: Castagnola
+    given-names: Filippo
+    email: fi.castagnola@gmail.com
+date-released: 2026-04-20
+url: "https://github.com/YOUR_USERNAME/f1-pitstop-strategy-analysis"
