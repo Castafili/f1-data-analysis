@@ -62,3 +62,12 @@ Analyzing how pit stop strategy impacts race results across different circuit ty
 ---
 
 *This project will **hopefully** form part of my thesis: "Dai big data alla strategia di gara: l'uso dell'intelligenza artificiale in Formula 1"*
+
+## 📬 Contributing
+
+This project strives to being a thesis project, but suggestions and feedback are welcome! Feel free to:
+- Open an issue for data corrections
+- Suggest additional analyses
+- Share relevant F1 strategy insights
+
+Contact: fi.castagnola@gmail.com
