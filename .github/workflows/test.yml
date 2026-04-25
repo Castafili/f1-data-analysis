@@ -1,0 +1,30 @@
+name: Test Analysis
+
+# Quando eseguire: ad ogni push o pull request
+on: [push, pull_request]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    # 1. Scarica il codice del repo
+    - name: Checkout repository
+      uses: actions/checkout@v3
+    
+    # 2. Installa Python
+    - name: Set up Python
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+    
+    # 3. Installa le dipendenze
+    - name: Install dependencies
+      run: |
+        pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    # 4. Esegui il notebook
+    - name: Run notebook
+      run: |
+        jupyter nbconvert --execute --to notebook --inplace notebooks/f1_thesis_analysis.ipynb
