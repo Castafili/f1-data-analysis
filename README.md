@@ -33,9 +33,37 @@ Analyzing how pit stop strategy impacts race results across different circuit ty
 2. At Monaco, pit strategy has **minimal impact** due to low overtaking opportunities
 3. Optimal first pit stop timing varies significantly by circuit type
 
-## 📈 Preliminary Findings
+---
 
-[COMING SOON - Analysis in progress]
+## 📊 Visual Analysis
+
+### Pit Stop Strategy Distribution Across Circuits
+![Pit Stops](plots/pitstop_distribution_by_gp.png)
+
+### First Pit Stop Timing vs Position Change
+![Timing vs Delta](plots/first_pit_vs_delta.png)
+
+## 🔍 Preliminary Findings
+
+> ⚠️ These are early results based on a limited dataset and may evolve.
+
+- **2-stop strategies dominate** and show a slight positive median position gain (~+1).
+- **1-stop strategies are mostly neutral**, with little impact on position changes.
+- **3-stop strategies show higher gains**, but the sample size is very small and results are highly variable.
+
+### 🏁 Circuit dependency
+- Strategy effectiveness varies significantly across races.
+- The same number of pit stops can lead to different outcomes depending on the circuit.
+
+### ⏱️ Pit stop timing
+- No strong linear relationship between first pit stop timing and position delta.
+- Early stops show high variability (often reactive decisions).
+- Mid-race stops tend to produce neutral outcomes.
+- Late stops can lead to gains, but inconsistently.
+
+➡️ **Conclusion:** Pit stop strategy alone does not fully explain race performance — race context plays a key role.
+
+---
 
 ## 🛠️ Tech Stack
 
