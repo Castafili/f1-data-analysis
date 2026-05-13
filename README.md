@@ -67,7 +67,7 @@ Analyzing how pit stop strategy impacts race results across different circuit ty
 
 ## 🛠️ Tech Stack
 
-`Python` `pandas` `matplotlib` `seaborn` `statsmodels` `scipy`
+`Python` `pandas` `matplotlib` `statsmodels` `scipy`
 
 ## 📂 Project Status
 
