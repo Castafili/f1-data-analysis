@@ -94,4 +94,4 @@ Suggestions, data corrections, or ideas for additional analysis are always welco
 
 ---
 
-*This project is the core of my BSc thesis in Computer Science — University of Perugia.*
+<!-- *This project is the core of my BSc thesis in Computer Science — University of Perugia.* --> 
