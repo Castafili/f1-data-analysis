@@ -1,12 +1,8 @@
 # F1 Pit Stop Strategy Analysis 🏎️
 
-![Python](https://img.shields.io/badge/python-3.10-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
-![Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
-
-![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
-![pandas](https://img.shields.io/badge/pandas-2.0+-orange.svg)
-![Statsmodels](https://img.shields.io/badge/Statsmodels-0.14+-purple.svg)
+![Python](https://img.shields.io/badge/Python-3.10-blue.svg)
+![pandas](https://img.shields.io/badge/pandas-2.0-orange.svg)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-0.14-purple.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-active%20development-brightgreen.svg)
 
