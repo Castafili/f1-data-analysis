@@ -4,6 +4,12 @@
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Status](https://img.shields.io/badge/status-in%20progress-yellow.svg)
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)
+![pandas](https://img.shields.io/badge/pandas-2.0+-orange.svg)
+![Statsmodels](https://img.shields.io/badge/Statsmodels-0.14+-purple.svg)
+![License](https://img.shields.io/badge/license-MIT-green.svg)
+![Status](https://img.shields.io/badge/status-active%20development-brightgreen.svg)
+
 > *From Big Data to Race Strategy: Using AI in Formula 1*
 
 Statistical analysis of pit stop strategy impact on race results, based on circuit characteristics — 2025 F1 season.
