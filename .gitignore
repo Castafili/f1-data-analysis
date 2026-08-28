@@ -17,3 +17,6 @@ venv/
 .vscode/
 .idea/
 *.swp
+
+# FastF1 cache
+fastf1_cache/
