@@ -2,6 +2,8 @@
 
 Statistical and econometric analysis of Formula 1 pit stop strategies and their impact on race outcomes across all 24 Grands Prix of the 2025 FIA Formula One World Championship.
 
+**[Live Interactive Telemetry Dashboard](https://f1-strategy-telemetry.streamlit.app)**
+
 ## Research Question
 How do pit stop frequency and relative pit-window timing affect driver grid-to-finish position delta (`grid_position - finish_position`), and how much of that effect remains after controlling for starting grid position, constructor pace, circuit characteristics, and Safety Car interventions?
 
