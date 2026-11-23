@@ -1,0 +1,480 @@
+season,round,event_name,country,circuit,total_race_laps,driver,driver_number,team,grid_position,finish_position,classified_position,status,points,laps_completed,pit_stops,first_pit_lap,num_stints,compounds_used,race_had_sc,race_had_vsc,is_dns,is_dsq,is_dnf,is_lapped,is_finished_on_lead_lap,is_classified,valid_for_strategy_analysis
+2025,1,Australian Grand Prix,Australia,Melbourne,57,NOR,4,McLaren,1,1,1,Finished,25.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->HARD->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,VER,1,Red Bull Racing,3,2,2,Finished,18.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->MEDIUM->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,RUS,63,Mercedes,4,3,3,Finished,15.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->HARD->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,ANT,12,Mercedes,16,4,4,Finished,12.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->HARD->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,ALB,23,Williams,6,5,5,Finished,10.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->MEDIUM->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,STR,18,Aston Martin,13,6,6,Finished,8.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->HARD->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,HUL,27,Kick Sauber,17,7,7,Finished,6.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->MEDIUM->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,LEC,16,Ferrari,7,8,8,Finished,4.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->HARD->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,PIA,81,McLaren,2,9,9,Finished,2.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->HARD->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,HAM,44,Ferrari,8,10,10,Finished,1.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->HARD->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,GAS,10,Alpine,9,11,11,Finished,0.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->HARD->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,TSU,22,Racing Bulls,5,12,12,Finished,0.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->MEDIUM->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,OCO,31,Haas F1 Team,19,13,13,Finished,0.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->MEDIUM->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,BEA,87,Haas F1 Team,20,14,14,Finished,0.0,57,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->MEDIUM->INTERMEDIATE,True,False,False,False,False,False,True,True,True
+2025,1,Australian Grand Prix,Australia,Melbourne,57,LAW,30,Red Bull Racing,18,15,R,Retired,0.0,46,4,2,5,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->MEDIUM,True,False,False,False,True,False,False,False,False
+2025,1,Australian Grand Prix,Australia,Melbourne,57,BOR,5,Kick Sauber,15,16,R,Retired,0.0,45,5,2,6,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->MEDIUM->INTERMEDIATE,True,False,False,False,True,False,False,False,False
+2025,1,Australian Grand Prix,Australia,Melbourne,57,ALO,14,Aston Martin,12,17,R,Retired,0.0,32,3,2,4,INTERMEDIATE->INTERMEDIATE->INTERMEDIATE->INTERMEDIATE,True,False,False,False,True,False,False,False,False
+2025,1,Australian Grand Prix,Australia,Melbourne,57,SAI,55,Williams,10,18,R,Retired,0.0,0,0,,1,INTERMEDIATE,True,False,False,False,True,False,False,False,False
+2025,1,Australian Grand Prix,Australia,Melbourne,57,DOO,7,Alpine,14,19,R,Retired,0.0,0,0,,1,INTERMEDIATE,True,False,False,False,True,False,False,False,False
+2025,1,Australian Grand Prix,Australia,Melbourne,57,HAD,6,Racing Bulls,11,20,R,Retired,0.0,0,0,,1,INTERMEDIATE,True,False,False,False,True,False,False,False,False
+2025,2,Chinese Grand Prix,China,Shanghai,56,PIA,81,McLaren,1,1,1,Finished,25.0,56,1,14,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,NOR,4,McLaren,3,2,2,Finished,18.0,56,1,15,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,RUS,63,Mercedes,2,3,3,Finished,15.0,56,1,14,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,VER,1,Red Bull Racing,4,4,4,Finished,12.0,56,1,13,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,OCO,31,Haas F1 Team,11,5,5,Finished,10.0,56,1,11,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,ANT,12,Mercedes,8,6,6,Finished,8.0,56,1,12,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,ALB,23,Williams,10,7,7,Finished,6.0,56,1,20,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,BEA,87,Haas F1 Team,17,8,8,Finished,4.0,56,1,26,2,HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,STR,18,Aston Martin,14,9,9,Finished,2.0,56,1,36,2,HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,SAI,55,Williams,15,10,10,Finished,1.0,56,1,17,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,HAD,6,Racing Bulls,7,11,11,Finished,0.0,56,2,12,3,MEDIUM->HARD->HARD,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,LAW,30,Red Bull Racing,20,12,12,Finished,0.0,56,2,18,3,HARD->MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,DOO,7,Alpine,18,13,13,Finished,0.0,56,1,11,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,BOR,5,Kick Sauber,19,14,14,Lapped,0.0,55,2,1,3,MEDIUM->HARD->HARD,False,False,False,False,False,True,False,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,HUL,27,Kick Sauber,12,15,15,Lapped,0.0,55,1,20,2,MEDIUM->HARD,False,False,False,False,False,True,False,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,TSU,22,Racing Bulls,9,16,16,Lapped,0.0,55,3,11,4,MEDIUM->HARD->HARD->MEDIUM,False,False,False,False,False,True,False,True,True
+2025,2,Chinese Grand Prix,China,Shanghai,56,ALO,14,Aston Martin,13,17,R,Retired,0.0,4,1,4,1,MEDIUM,False,False,False,False,True,False,False,False,False
+2025,2,Chinese Grand Prix,China,Shanghai,56,LEC,16,Ferrari,6,18,D,Disqualified,0.0,0,1,15,2,MEDIUM->HARD,False,False,False,True,False,False,False,False,False
+2025,2,Chinese Grand Prix,China,Shanghai,56,HAM,44,Ferrari,5,19,D,Disqualified,0.0,0,2,13,3,MEDIUM->HARD->HARD,False,False,False,True,False,False,False,False,False
+2025,2,Chinese Grand Prix,China,Shanghai,56,GAS,10,Alpine,16,20,D,Disqualified,0.0,0,1,10,2,MEDIUM->HARD,False,False,False,True,False,False,False,False,False
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,VER,1,Red Bull Racing,1,1,1,Finished,25.0,53,1,21,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,NOR,4,McLaren,2,2,2,Finished,18.0,53,1,21,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,PIA,81,McLaren,3,3,3,Finished,15.0,53,1,20,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,LEC,16,Ferrari,4,4,4,Finished,12.0,53,1,21,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,RUS,63,Mercedes,5,5,5,Finished,10.0,53,1,19,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,ANT,12,Mercedes,6,6,6,Finished,8.0,53,1,31,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,HAM,44,Ferrari,8,7,7,Finished,6.0,53,1,30,2,HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,HAD,6,Racing Bulls,7,8,8,Finished,4.0,53,1,25,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,ALB,23,Williams,9,9,9,Finished,2.0,53,1,24,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,BEA,87,Haas F1 Team,10,10,10,Finished,1.0,53,1,23,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,ALO,14,Aston Martin,12,11,11,Finished,0.0,53,1,24,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,TSU,22,Red Bull Racing,14,12,12,Finished,0.0,53,1,23,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,GAS,10,Alpine,11,13,13,Finished,0.0,53,1,24,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,SAI,55,Williams,15,14,14,Finished,0.0,53,1,33,2,MEDIUM->SOFT,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,DOO,7,Alpine,19,15,15,Finished,0.0,53,1,15,2,SOFT->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,HUL,27,Kick Sauber,16,16,16,Finished,0.0,53,1,22,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,LAW,30,Racing Bulls,13,17,17,Finished,0.0,53,1,33,2,MEDIUM->SOFT,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,OCO,31,Haas F1 Team,18,18,18,Finished,0.0,53,1,32,2,HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,BOR,5,Kick Sauber,17,19,19,Finished,0.0,53,1,31,2,HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,3,Japanese Grand Prix,Japan,Suzuka,53,STR,18,Aston Martin,20,20,20,Lapped,0.0,52,2,9,3,SOFT->HARD->MEDIUM,False,False,False,False,False,True,False,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,PIA,81,McLaren,1,1,1,Finished,25.0,57,2,14,3,SOFT->MEDIUM->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,RUS,63,Mercedes,3,2,2,Finished,18.0,57,2,13,3,SOFT->MEDIUM->SOFT,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,NOR,4,McLaren,6,3,3,Finished,15.0,57,2,10,3,SOFT->MEDIUM->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,LEC,16,Ferrari,2,4,4,Finished,12.0,57,2,17,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,HAM,44,Ferrari,9,5,5,Finished,10.0,57,2,17,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,VER,1,Red Bull Racing,7,6,6,Finished,8.0,57,2,10,3,SOFT->HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,GAS,10,Alpine,4,7,7,Finished,6.0,57,2,10,3,SOFT->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,OCO,31,Haas F1 Team,14,8,8,Finished,4.0,57,2,8,3,SOFT->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,TSU,22,Red Bull Racing,10,9,9,Finished,2.0,57,2,11,3,SOFT->MEDIUM->SOFT,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,BEA,87,Haas F1 Team,20,10,10,Finished,1.0,57,2,14,3,SOFT->HARD->SOFT,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,ANT,12,Mercedes,5,11,11,Finished,0.0,57,3,12,4,SOFT->MEDIUM->SOFT->SOFT,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,ALB,23,Williams,15,12,12,Finished,0.0,57,2,16,3,SOFT->HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,HAD,6,Racing Bulls,12,13,13,Finished,0.0,57,2,6,3,SOFT->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,DOO,7,Alpine,11,14,14,Finished,0.0,57,2,9,3,SOFT->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,ALO,14,Aston Martin,13,15,15,Finished,0.0,57,2,16,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,LAW,30,Racing Bulls,17,16,16,Finished,0.0,57,2,14,3,MEDIUM->HARD->SOFT,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,STR,18,Aston Martin,19,17,17,Finished,0.0,57,2,12,3,SOFT->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,BOR,5,Kick Sauber,18,18,18,Finished,0.0,57,2,13,3,MEDIUM->HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,SAI,55,Williams,8,19,R,Retired,0.0,45,4,14,4,SOFT->MEDIUM->HARD->SOFT,True,False,False,False,True,False,False,False,False
+2025,4,Bahrain Grand Prix,Bahrain,Sakhir,57,HUL,27,Kick Sauber,16,20,D,Disqualified,0.0,0,2,5,3,SOFT->MEDIUM->MEDIUM,True,False,False,True,False,False,False,False,False
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,PIA,81,McLaren,2,1,1,Finished,25.0,50,1,19,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,VER,1,Red Bull Racing,1,2,2,Finished,18.0,50,1,21,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,LEC,16,Ferrari,4,3,3,Finished,15.0,50,1,29,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,NOR,4,McLaren,10,4,4,Finished,12.0,50,1,34,2,HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,RUS,63,Mercedes,3,5,5,Finished,10.0,50,1,20,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,ANT,12,Mercedes,5,6,6,Finished,8.0,50,1,19,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,HAM,44,Ferrari,7,7,7,Finished,6.0,50,1,23,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,SAI,55,Williams,6,8,8,Finished,4.0,50,1,21,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,ALB,23,Williams,11,9,9,Finished,2.0,50,1,22,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,HAD,6,Racing Bulls,14,10,10,Finished,1.0,50,1,34,2,HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,ALO,14,Aston Martin,13,11,11,Finished,0.0,50,1,19,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,LAW,30,Racing Bulls,12,12,12,Finished,0.0,50,1,20,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,BEA,87,Haas F1 Team,15,13,13,Finished,0.0,50,1,18,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,OCO,31,Haas F1 Team,19,14,14,Finished,0.0,50,1,1,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,HUL,27,Kick Sauber,18,15,15,Lapped,0.0,49,1,33,2,HARD->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,STR,18,Aston Martin,16,16,16,Lapped,0.0,49,1,39,2,HARD->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,DOO,7,Alpine,17,17,17,Lapped,0.0,49,2,1,3,MEDIUM->HARD->HARD,True,False,False,False,False,True,False,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,BOR,5,Kick Sauber,20,18,18,Lapped,0.0,49,1,1,2,MEDIUM->HARD,True,False,False,False,False,True,False,True,True
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,TSU,22,Red Bull Racing,8,19,R,Retired,0.0,1,1,1,1,MEDIUM,True,False,False,False,True,False,False,False,False
+2025,5,Saudi Arabian Grand Prix,Saudi Arabia,Jeddah,50,GAS,10,Alpine,9,20,R,Retired,0.0,0,0,,1,MEDIUM,True,False,False,False,True,False,False,False,False
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,PIA,81,McLaren,4,1,1,Finished,25.0,57,1,29,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,NOR,4,McLaren,2,2,2,Finished,18.0,57,1,29,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,RUS,63,Mercedes,5,3,3,Finished,15.0,57,1,29,2,HARD->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,VER,1,Red Bull Racing,1,4,4,Finished,12.0,57,1,26,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,ALB,23,Williams,7,5,5,Finished,10.0,57,1,26,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,ANT,12,Mercedes,3,6,6,Finished,8.0,57,1,25,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,LEC,16,Ferrari,8,7,7,Finished,6.0,57,1,29,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,HAM,44,Ferrari,12,8,8,Finished,4.0,57,1,28,2,HARD->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,SAI,55,Williams,6,9,9,Finished,2.0,57,1,25,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,TSU,22,Red Bull Racing,10,10,10,Finished,1.0,57,1,27,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,HAD,6,Racing Bulls,11,11,11,Finished,0.0,57,1,22,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,OCO,31,Haas F1 Team,9,12,12,Finished,0.0,57,1,23,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,GAS,10,Alpine,20,13,13,Finished,0.0,57,1,32,2,HARD->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,HUL,27,Kick Sauber,16,14,14,Lapped,0.0,56,1,36,2,HARD->MEDIUM,False,True,False,False,False,True,False,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,ALO,14,Aston Martin,17,15,15,Lapped,0.0,56,1,28,2,HARD->MEDIUM,False,True,False,False,False,True,False,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,STR,18,Aston Martin,18,16,16,Lapped,0.0,56,1,20,2,MEDIUM->HARD,False,True,False,False,False,True,False,True,True
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,LAW,30,Racing Bulls,15,17,R,Retired,0.0,36,2,28,2,HARD->MEDIUM,False,True,False,False,True,False,False,False,False
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,BOR,5,Kick Sauber,13,18,R,Retired,0.0,30,1,19,2,MEDIUM->HARD,False,True,False,False,True,False,False,False,False
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,BEA,87,Haas F1 Team,19,19,R,Retired,0.0,27,0,,1,HARD,False,True,False,False,True,False,False,False,False
+2025,6,Miami Grand Prix,United States,Miami Gardens,57,DOO,7,Alpine,14,20,R,Retired,0.0,0,0,,1,MEDIUM,False,True,False,False,True,False,False,False,False
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,VER,1,Red Bull Racing,2,1,1,Finished,25.0,63,2,29,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,NOR,4,McLaren,4,2,2,Finished,18.0,63,2,28,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,PIA,81,McLaren,1,3,3,Finished,15.0,63,2,13,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,HAM,44,Ferrari,12,4,4,Finished,12.0,63,2,29,3,HARD->MEDIUM->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,ALB,23,Williams,7,5,5,Finished,10.0,63,2,29,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,LEC,16,Ferrari,11,6,6,Finished,8.0,63,2,10,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,RUS,63,Mercedes,3,7,7,Finished,6.0,63,2,11,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,SAI,55,Williams,6,8,8,Finished,4.0,63,2,11,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,HAD,6,Racing Bulls,9,9,9,Finished,2.0,63,2,29,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,TSU,22,Red Bull Racing,20,10,10,Finished,1.0,63,1,29,2,HARD->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,ALO,14,Aston Martin,5,11,11,Finished,0.0,63,2,12,3,MEDIUM->HARD->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,HUL,27,Kick Sauber,17,12,12,Finished,0.0,63,1,29,2,HARD->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,GAS,10,Alpine,10,13,13,Finished,0.0,63,2,9,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,LAW,30,Racing Bulls,15,14,14,Finished,0.0,63,2,10,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,STR,18,Aston Martin,8,15,15,Finished,0.0,63,2,14,3,MEDIUM->HARD->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,COL,43,Alpine,16,16,16,Finished,0.0,63,2,22,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,BEA,87,Haas F1 Team,19,17,17,Finished,0.0,63,2,29,3,HARD->MEDIUM->HARD,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,BOR,5,Kick Sauber,14,18,18,Finished,0.0,63,3,12,4,MEDIUM->HARD->HARD->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,ANT,12,Mercedes,13,19,R,Retired,0.0,44,1,29,2,HARD->MEDIUM,True,True,False,False,True,False,False,False,False
+2025,7,Emilia Romagna Grand Prix,Italy,Imola,63,OCO,31,Haas F1 Team,18,20,R,Retired,0.0,27,1,1,2,MEDIUM->HARD,True,True,False,False,True,False,False,False,False
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,NOR,4,McLaren,1,1,1,Finished,25.0,78,2,19,3,MEDIUM->HARD->HARD,False,True,False,False,False,False,True,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,LEC,16,Ferrari,2,2,2,Finished,18.0,78,2,22,3,MEDIUM->HARD->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,PIA,81,McLaren,3,3,3,Finished,15.0,78,2,20,3,MEDIUM->HARD->HARD,False,True,False,False,False,False,True,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,VER,1,Red Bull Racing,4,4,4,Finished,12.0,78,2,28,3,HARD->MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,HAM,44,Ferrari,7,5,5,Finished,10.0,78,2,18,3,HARD->HARD->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,HAD,6,Racing Bulls,5,6,6,Lapped,8.0,77,2,14,3,MEDIUM->SOFT->HARD,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,OCO,31,Haas F1 Team,8,7,7,Lapped,6.0,77,2,16,3,MEDIUM->MEDIUM->HARD,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,LAW,30,Racing Bulls,9,8,8,Lapped,4.0,77,2,31,3,MEDIUM->SOFT->HARD,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,ALB,23,Williams,10,9,9,Lapped,2.0,76,2,32,3,MEDIUM->MEDIUM->HARD,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,SAI,55,Williams,11,10,10,Lapped,1.0,76,2,48,3,HARD->MEDIUM->MEDIUM,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,RUS,63,Mercedes,14,11,11,Lapped,0.0,76,3,53,3,HARD->MEDIUM->HARD,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,BEA,87,Haas F1 Team,20,12,12,Lapped,0.0,76,2,1,3,MEDIUM->HARD->MEDIUM,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,COL,43,Alpine,18,13,13,Lapped,0.0,76,2,13,3,HARD->MEDIUM->MEDIUM,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,BOR,5,Kick Sauber,16,14,14,Lapped,0.0,76,3,1,4,MEDIUM->HARD->SOFT->MEDIUM,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,STR,18,Aston Martin,19,15,15,Lapped,0.0,76,2,17,3,HARD->HARD->MEDIUM,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,HUL,27,Kick Sauber,13,16,16,Lapped,0.0,76,2,12,3,MEDIUM->HARD->SOFT,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,TSU,22,Red Bull Racing,12,17,17,Lapped,0.0,76,2,1,3,SOFT->HARD->MEDIUM,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,ANT,12,Mercedes,15,18,18,Lapped,0.0,75,2,69,3,HARD->MEDIUM->HARD,False,True,False,False,False,True,False,True,True
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,ALO,14,Aston Martin,6,19,R,Retired,0.0,36,1,16,2,HARD->HARD,False,True,False,False,True,False,False,False,False
+2025,8,Monaco Grand Prix,Monaco,Monaco,78,GAS,10,Alpine,17,20,R,Retired,0.0,7,2,1,2,MEDIUM->MEDIUM,False,True,False,False,True,False,False,False,False
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,PIA,81,McLaren,1,1,1,Finished,25.0,66,3,22,4,SOFT->MEDIUM->SOFT->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,NOR,4,McLaren,2,2,2,Finished,18.0,66,3,21,4,SOFT->MEDIUM->SOFT->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,LEC,16,Ferrari,7,3,3,Finished,15.0,66,3,17,4,SOFT->MEDIUM->MEDIUM->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,RUS,63,Mercedes,4,4,4,Finished,12.0,66,3,20,4,SOFT->MEDIUM->SOFT->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,HUL,27,Kick Sauber,15,5,5,Finished,10.0,66,3,9,4,SOFT->MEDIUM->SOFT->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,HAM,44,Ferrari,5,6,6,Finished,8.0,66,3,16,4,SOFT->MEDIUM->SOFT->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,HAD,6,Racing Bulls,9,7,7,Finished,6.0,66,3,19,4,SOFT->MEDIUM->SOFT->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,GAS,10,Alpine,8,8,8,Finished,4.0,66,3,10,4,SOFT->SOFT->MEDIUM->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,ALO,14,Aston Martin,10,9,9,Finished,2.0,66,3,15,4,SOFT->MEDIUM->SOFT->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,VER,1,Red Bull Racing,3,10,10,Finished,1.0,66,4,13,5,SOFT->SOFT->MEDIUM->SOFT->HARD,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,LAW,30,Racing Bulls,13,11,11,Finished,0.0,66,2,18,3,SOFT->MEDIUM->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,BOR,5,Kick Sauber,12,12,12,Finished,0.0,66,2,19,3,SOFT->MEDIUM->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,TSU,22,Red Bull Racing,19,13,13,Finished,0.0,66,4,8,5,MEDIUM->SOFT->SOFT->SOFT->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,SAI,55,Williams,17,14,14,Finished,0.0,66,3,9,4,SOFT->SOFT->MEDIUM->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,COL,43,Alpine,18,15,15,Finished,0.0,66,3,14,4,SOFT->MEDIUM->SOFT->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,OCO,31,Haas F1 Team,16,16,16,Finished,0.0,66,2,20,3,SOFT->MEDIUM->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,BEA,87,Haas F1 Team,14,17,17,Finished,0.0,66,3,8,4,SOFT->MEDIUM->MEDIUM->SOFT,True,False,False,False,False,False,True,True,True
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,ANT,12,Mercedes,6,18,R,Retired,0.0,53,2,21,3,SOFT->MEDIUM->SOFT,True,False,False,False,True,False,False,False,False
+2025,9,Spanish Grand Prix,Spain,Barcelona,66,ALB,23,Williams,11,19,R,Retired,0.0,27,3,6,3,SOFT->SOFT->SOFT,True,False,False,False,True,False,False,False,False
+2025,10,Canadian Grand Prix,Canada,Montréal,70,RUS,63,Mercedes,1,1,1,Finished,25.0,70,5,13,6,MEDIUM->HARD->HARD->HARD->HARD->HARD,True,False,False,False,False,False,True,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,VER,1,Red Bull Racing,2,2,2,Finished,18.0,70,5,12,6,MEDIUM->HARD->HARD->HARD->HARD->HARD,True,False,False,False,False,False,True,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,ANT,12,Mercedes,4,3,3,Finished,15.0,70,5,14,6,MEDIUM->HARD->HARD->HARD->HARD->HARD,True,False,False,False,False,False,True,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,PIA,81,McLaren,3,4,4,Finished,12.0,70,5,16,6,MEDIUM->HARD->HARD->SOFT->SOFT->SOFT,True,False,False,False,False,False,True,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,LEC,16,Ferrari,8,5,5,Finished,10.0,70,5,28,6,HARD->HARD->MEDIUM->MEDIUM->MEDIUM->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,HAM,44,Ferrari,5,6,6,Finished,8.0,70,5,15,6,MEDIUM->HARD->HARD->HARD->HARD->HARD,True,False,False,False,False,False,True,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,ALO,14,Aston Martin,6,7,7,Finished,6.0,70,6,15,7,MEDIUM->HARD->HARD->HARD->HARD->HARD->HARD,True,False,False,False,False,False,True,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,HUL,27,Kick Sauber,11,8,8,Finished,4.0,70,5,19,6,MEDIUM->HARD->HARD->HARD->HARD->HARD,True,False,False,False,False,False,True,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,OCO,31,Haas F1 Team,14,9,9,Lapped,2.0,69,4,57,5,HARD->MEDIUM->MEDIUM->MEDIUM->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,SAI,55,Williams,16,10,10,Lapped,1.0,69,4,57,5,HARD->MEDIUM->MEDIUM->MEDIUM->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,BEA,87,Haas F1 Team,13,11,11,Lapped,0.0,69,4,18,5,MEDIUM->HARD->SOFT->SOFT->SOFT,True,False,False,False,False,True,False,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,TSU,22,Red Bull Racing,18,12,12,Lapped,0.0,69,4,56,5,HARD->MEDIUM->MEDIUM->MEDIUM->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,COL,43,Alpine,10,13,13,Lapped,0.0,69,4,14,5,MEDIUM->HARD->HARD->HARD->HARD,True,False,False,False,False,True,False,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,BOR,5,Kick Sauber,15,14,14,Lapped,0.0,69,4,49,5,HARD->MEDIUM->MEDIUM->MEDIUM->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,GAS,10,Alpine,20,15,15,Lapped,0.0,69,4,53,5,HARD->MEDIUM->MEDIUM->MEDIUM->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,HAD,6,Racing Bulls,12,16,16,Lapped,0.0,69,4,13,5,MEDIUM->HARD->SOFT->SOFT->SOFT,True,False,False,False,False,True,False,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,STR,18,Aston Martin,17,17,17,Lapped,0.0,69,5,24,6,HARD->HARD->MEDIUM->SOFT->SOFT->SOFT,True,False,False,False,False,True,False,True,True
+2025,10,Canadian Grand Prix,Canada,Montréal,70,NOR,4,McLaren,7,18,18,Retired,0.0,66,2,29,3,HARD->MEDIUM->HARD,True,False,False,False,True,False,False,True,False
+2025,10,Canadian Grand Prix,Canada,Montréal,70,LAW,30,Racing Bulls,19,19,R,Retired,0.0,53,2,38,2,HARD->MEDIUM,True,False,False,False,True,False,False,False,False
+2025,10,Canadian Grand Prix,Canada,Montréal,70,ALB,23,Williams,9,20,R,Retired,0.0,46,1,23,2,MEDIUM->HARD,True,False,False,False,True,False,False,False,False
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,NOR,4,McLaren,1,1,1,Finished,25.0,70,2,20,3,MEDIUM->HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,PIA,81,McLaren,3,2,2,Finished,18.0,70,2,24,3,MEDIUM->HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,LEC,16,Ferrari,2,3,3,Finished,15.0,70,2,25,3,MEDIUM->HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,HAM,44,Ferrari,4,4,4,Finished,12.0,70,2,26,3,MEDIUM->HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,RUS,63,Mercedes,5,5,5,Finished,10.0,70,2,18,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,LAW,30,Racing Bulls,6,6,6,Finished,8.0,70,1,32,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,ALO,14,Aston Martin,11,7,7,Lapped,6.0,69,1,33,2,MEDIUM->HARD,True,False,False,False,False,True,False,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,BOR,5,Kick Sauber,8,8,8,Lapped,4.0,69,2,21,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,True,False,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,HUL,27,Kick Sauber,20,9,9,Lapped,2.0,69,2,12,3,SOFT->MEDIUM->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,OCO,31,Haas F1 Team,17,10,10,Lapped,1.0,69,2,19,3,MEDIUM->HARD->HARD,True,False,False,False,False,True,False,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,BEA,87,Haas F1 Team,15,11,11,Lapped,0.0,69,2,11,3,SOFT->HARD->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,HAD,6,Racing Bulls,13,12,12,Lapped,0.0,69,2,2,3,SOFT->MEDIUM->HARD,True,False,False,False,False,True,False,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,GAS,10,Alpine,10,13,13,Lapped,0.0,69,2,12,3,SOFT->HARD->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,STR,18,Aston Martin,16,14,14,Lapped,0.0,69,2,26,3,MEDIUM->HARD->SOFT,True,False,False,False,False,True,False,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,COL,43,Alpine,14,15,15,Lapped,0.0,69,2,13,3,SOFT->MEDIUM->HARD,True,False,False,False,False,True,False,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,TSU,22,Red Bull Racing,18,16,16,Lapped,0.0,68,3,18,4,MEDIUM->HARD->MEDIUM->SOFT,True,False,False,False,False,True,False,True,True
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,ALB,23,Williams,12,17,R,Retired,0.0,15,2,13,2,MEDIUM->MEDIUM,True,False,False,False,True,False,False,False,False
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,VER,1,Red Bull Racing,7,18,R,Retired,0.0,0,0,,1,MEDIUM,True,False,False,False,True,False,False,False,False
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,ANT,12,Mercedes,9,19,R,Retired,0.0,0,0,,1,MEDIUM,True,False,False,False,True,False,False,False,False
+2025,11,Austrian Grand Prix,Austria,Spielberg,70,SAI,55,Williams,19,20,W,Did not start,0.0,0,,,,,True,False,True,False,False,False,False,False,False
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,NOR,4,McLaren,3,1,1,Finished,25.0,52,2,11,3,INTERMEDIATE->INTERMEDIATE->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,PIA,81,McLaren,2,2,2,Finished,18.0,52,2,11,3,INTERMEDIATE->INTERMEDIATE->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,HUL,27,Kick Sauber,19,3,3,Finished,15.0,52,2,9,3,INTERMEDIATE->INTERMEDIATE->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,HAM,44,Ferrari,5,4,4,Finished,12.0,52,2,11,3,INTERMEDIATE->INTERMEDIATE->SOFT,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,VER,1,Red Bull Racing,1,5,5,Finished,10.0,52,2,11,3,INTERMEDIATE->INTERMEDIATE->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,GAS,10,Alpine,8,6,6,Finished,8.0,52,2,11,3,INTERMEDIATE->INTERMEDIATE->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,STR,18,Aston Martin,17,7,7,Finished,6.0,52,3,6,4,INTERMEDIATE->SOFT->INTERMEDIATE->SOFT,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,ALB,23,Williams,13,8,8,Finished,4.0,52,2,12,3,INTERMEDIATE->INTERMEDIATE->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,ALO,14,Aston Martin,7,9,9,Finished,2.0,52,2,11,3,INTERMEDIATE->INTERMEDIATE->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,RUS,63,Mercedes,4,10,10,Finished,1.0,52,2,10,3,HARD->INTERMEDIATE->HARD,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,BEA,87,Haas F1 Team,18,11,11,Finished,0.0,52,2,10,3,HARD->INTERMEDIATE->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,SAI,55,Williams,9,12,12,Finished,0.0,52,2,11,3,INTERMEDIATE->INTERMEDIATE->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,OCO,31,Haas F1 Team,14,13,13,Finished,0.0,52,2,18,3,INTERMEDIATE->INTERMEDIATE->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,LEC,16,Ferrari,6,14,14,Finished,0.0,52,2,10,3,MEDIUM->INTERMEDIATE->SOFT,True,True,False,False,False,False,True,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,TSU,22,Red Bull Racing,11,15,15,Lapped,0.0,51,2,11,3,INTERMEDIATE->INTERMEDIATE->MEDIUM,True,True,False,False,False,True,False,True,True
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,ANT,12,Mercedes,10,16,R,Retired,0.0,23,4,2,4,INTERMEDIATE->HARD->INTERMEDIATE->INTERMEDIATE,True,True,False,False,True,False,False,False,False
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,HAD,6,Racing Bulls,12,17,R,Retired,0.0,17,1,10,2,MEDIUM->INTERMEDIATE,True,True,False,False,True,False,False,False,False
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,BOR,5,Kick Sauber,16,18,R,Retired,0.0,3,0,,1,MEDIUM,True,True,False,False,True,False,False,False,False
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,LAW,30,Racing Bulls,15,19,R,Retired,0.0,0,0,,1,INTERMEDIATE,True,True,False,False,True,False,False,False,False
+2025,12,British Grand Prix,United Kingdom,Silverstone,52,COL,43,Alpine,20,20,W,Did not start,0.0,0,,,,,True,True,True,False,False,False,False,False,False
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,PIA,81,McLaren,2,1,1,Finished,25.0,44,1,12,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,NOR,4,McLaren,1,2,2,Finished,18.0,44,1,13,2,INTERMEDIATE->HARD,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,LEC,16,Ferrari,3,3,3,Finished,15.0,44,1,12,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,VER,1,Red Bull Racing,4,4,4,Finished,12.0,44,1,12,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,RUS,63,Mercedes,6,5,5,Finished,10.0,44,1,12,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,ALB,23,Williams,5,6,6,Finished,8.0,44,1,12,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,HAM,44,Ferrari,18,7,7,Finished,6.0,44,1,11,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,LAW,30,Racing Bulls,9,8,8,Finished,4.0,44,1,12,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,BOR,5,Kick Sauber,10,9,9,Finished,2.0,44,1,12,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,GAS,10,Alpine,13,10,10,Finished,1.0,44,1,11,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,BEA,87,Haas F1 Team,12,11,11,Finished,0.0,44,1,12,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,HUL,27,Kick Sauber,14,12,12,Finished,0.0,44,2,11,3,INTERMEDIATE->MEDIUM->None,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,TSU,22,Red Bull Racing,7,13,13,Finished,0.0,44,1,13,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,STR,18,Aston Martin,16,14,14,Finished,0.0,44,1,12,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,OCO,31,Haas F1 Team,11,15,15,Finished,0.0,44,1,13,2,INTERMEDIATE->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,ANT,12,Mercedes,19,16,16,Finished,0.0,44,2,12,3,INTERMEDIATE->MEDIUM->None,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,ALO,14,Aston Martin,20,17,17,Finished,0.0,44,2,11,3,INTERMEDIATE->MEDIUM->None,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,SAI,55,Williams,17,18,18,Finished,0.0,44,2,12,3,INTERMEDIATE->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,COL,43,Alpine,15,19,19,Finished,0.0,44,2,12,3,INTERMEDIATE->MEDIUM->None,True,False,False,False,False,False,True,True,True
+2025,13,Belgian Grand Prix,Belgium,Spa-Francorchamps,44,HAD,6,Racing Bulls,8,20,20,Lapped,0.0,43,2,13,3,INTERMEDIATE->MEDIUM->HARD,True,False,False,False,False,True,False,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,NOR,4,McLaren,3,1,1,Finished,25.0,70,1,31,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,PIA,81,McLaren,2,2,2,Finished,18.0,70,2,18,3,MEDIUM->HARD->HARD,False,False,False,False,False,False,True,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,RUS,63,Mercedes,4,3,3,Finished,15.0,70,2,19,3,MEDIUM->HARD->HARD,False,False,False,False,False,False,True,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,LEC,16,Ferrari,1,4,4,Finished,12.0,70,2,19,3,MEDIUM->HARD->HARD,False,False,False,False,False,False,True,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,ALO,14,Aston Martin,5,5,5,Finished,10.0,70,1,39,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,BOR,5,Kick Sauber,7,6,6,Finished,8.0,70,1,40,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,STR,18,Aston Martin,6,7,7,Finished,6.0,70,1,36,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,LAW,30,Racing Bulls,9,8,8,Finished,4.0,70,1,40,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,VER,1,Red Bull Racing,8,9,9,Finished,2.0,70,2,17,3,MEDIUM->HARD->HARD,False,False,False,False,False,False,True,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,ANT,12,Mercedes,15,10,10,Lapped,1.0,69,1,21,2,MEDIUM->HARD,False,False,False,False,False,True,False,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,HAD,6,Racing Bulls,10,11,11,Lapped,0.0,69,1,33,2,MEDIUM->HARD,False,False,False,False,False,True,False,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,HAM,44,Ferrari,12,12,12,Lapped,0.0,69,1,42,2,HARD->MEDIUM,False,False,False,False,False,True,False,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,HUL,27,Kick Sauber,18,13,13,Lapped,0.0,69,2,5,3,SOFT->MEDIUM->MEDIUM,False,False,False,False,False,True,False,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,SAI,55,Williams,13,14,14,Lapped,0.0,69,2,15,3,SOFT->HARD->MEDIUM,False,False,False,False,False,True,False,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,ALB,23,Williams,19,15,15,Lapped,0.0,69,2,14,3,SOFT->MEDIUM->HARD,False,False,False,False,False,True,False,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,OCO,31,Haas F1 Team,17,16,16,Lapped,0.0,69,1,14,2,MEDIUM->HARD,False,False,False,False,False,True,False,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,TSU,22,Red Bull Racing,20,17,17,Lapped,0.0,69,2,20,3,MEDIUM->SOFT->HARD,False,False,False,False,False,True,False,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,COL,43,Alpine,14,18,18,Lapped,0.0,69,2,13,3,MEDIUM->HARD->HARD,False,False,False,False,False,True,False,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,GAS,10,Alpine,16,19,19,Lapped,0.0,69,1,32,2,HARD->MEDIUM,False,False,False,False,False,True,False,True,True
+2025,14,Hungarian Grand Prix,Hungary,Budapest,70,BEA,87,Haas F1 Team,11,20,R,Retired,0.0,48,2,30,2,MEDIUM->HARD,False,False,False,False,True,False,False,False,False
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,PIA,81,McLaren,1,1,1,Finished,25.0,72,2,23,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,VER,1,Red Bull Racing,3,2,2,Finished,18.0,72,2,23,3,SOFT->MEDIUM->SOFT,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,HAD,6,Racing Bulls,4,3,3,Finished,15.0,72,2,23,3,MEDIUM->HARD->SOFT,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,RUS,63,Mercedes,5,4,4,Finished,12.0,72,2,23,3,MEDIUM->HARD->SOFT,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,ALB,23,Williams,15,5,5,Finished,10.0,72,2,23,3,MEDIUM->HARD->SOFT,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,BEA,87,Haas F1 Team,20,6,6,Finished,8.0,72,1,53,2,HARD->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,STR,18,Aston Martin,19,7,7,Finished,6.0,72,2,8,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,ALO,14,Aston Martin,10,8,8,Finished,4.0,72,2,18,3,MEDIUM->HARD->HARD,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,TSU,22,Red Bull Racing,12,9,9,Finished,2.0,72,2,19,3,SOFT->HARD->SOFT,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,OCO,31,Haas F1 Team,18,10,10,Finished,1.0,72,1,52,2,HARD->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,COL,43,Alpine,16,11,11,Finished,0.0,72,3,19,4,SOFT->HARD->MEDIUM->SOFT,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,LAW,30,Racing Bulls,8,12,12,Finished,0.0,72,3,23,4,MEDIUM->HARD->SOFT->SOFT,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,SAI,55,Williams,9,13,13,Finished,0.0,72,4,23,5,MEDIUM->HARD->SOFT->SOFT->SOFT,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,HUL,27,Kick Sauber,17,14,14,Finished,0.0,72,2,19,3,SOFT->HARD->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,BOR,5,Kick Sauber,13,15,15,Finished,0.0,72,2,22,3,MEDIUM->HARD->SOFT,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,ANT,12,Mercedes,11,16,16,Finished,0.0,72,3,23,4,MEDIUM->HARD->SOFT->SOFT,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,GAS,10,Alpine,14,17,17,Finished,0.0,72,1,23,2,MEDIUM->HARD,True,True,False,False,False,False,True,True,True
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,NOR,4,McLaren,2,18,18,Retired,0.0,64,2,23,3,MEDIUM->HARD->HARD,True,True,False,False,True,False,False,True,False
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,LEC,16,Ferrari,6,19,R,Retired,0.0,52,2,22,2,MEDIUM->HARD,True,True,False,False,True,False,False,False,False
+2025,15,Dutch Grand Prix,Netherlands,Zandvoort,72,HAM,44,Ferrari,7,20,R,Retired,0.0,22,0,,1,MEDIUM,True,True,False,False,True,False,False,False,False
+2025,16,Italian Grand Prix,Italy,Monza,53,VER,1,Red Bull Racing,1,1,1,Finished,25.0,53,1,37,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,NOR,4,McLaren,2,2,2,Finished,18.0,53,1,46,2,MEDIUM->SOFT,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,PIA,81,McLaren,3,3,3,Finished,15.0,53,1,45,2,MEDIUM->SOFT,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,LEC,16,Ferrari,4,4,4,Finished,12.0,53,1,33,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,RUS,63,Mercedes,5,5,5,Finished,10.0,53,1,27,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,HAM,44,Ferrari,10,6,6,Finished,8.0,53,1,38,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,ALB,23,Williams,14,7,7,Finished,6.0,53,1,41,2,HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,BOR,5,Kick Sauber,7,8,8,Finished,4.0,53,1,20,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,ANT,12,Mercedes,6,9,9,Finished,2.0,53,1,28,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,HAD,6,Racing Bulls,19,10,10,Finished,1.0,53,1,32,2,HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,SAI,55,Williams,13,11,11,Finished,0.0,53,1,30,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,BEA,87,Haas F1 Team,11,12,12,Finished,0.0,53,1,18,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,TSU,22,Red Bull Racing,9,13,13,Finished,0.0,53,1,19,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,LAW,30,Racing Bulls,18,14,14,Finished,0.0,53,1,9,2,SOFT->HARD,False,False,False,False,False,False,True,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,OCO,31,Haas F1 Team,15,15,15,Lapped,0.0,52,1,51,2,HARD->SOFT,False,False,False,False,False,True,False,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,GAS,10,Alpine,20,16,16,Lapped,0.0,52,1,49,2,HARD->SOFT,False,False,False,False,False,True,False,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,COL,43,Alpine,17,17,17,Lapped,0.0,52,1,33,2,MEDIUM->HARD,False,False,False,False,False,True,False,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,STR,18,Aston Martin,16,18,18,Lapped,0.0,52,1,49,2,HARD->SOFT,False,False,False,False,False,True,False,True,True
+2025,16,Italian Grand Prix,Italy,Monza,53,ALO,14,Aston Martin,8,19,R,Retired,0.0,24,2,20,2,MEDIUM->HARD,False,False,False,False,True,False,False,False,False
+2025,16,Italian Grand Prix,Italy,Monza,53,HUL,27,Kick Sauber,12,20,W,Did not start,0.0,0,,,,,False,False,True,False,False,False,False,False,False
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,VER,1,Red Bull Racing,1,1,1,Finished,25.0,51,1,40,2,HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,RUS,63,Mercedes,5,2,2,Finished,18.0,51,1,39,2,HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,SAI,55,Williams,2,3,3,Finished,15.0,51,1,27,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,ANT,12,Mercedes,4,4,4,Finished,12.0,51,1,18,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,LAW,30,Racing Bulls,3,5,5,Finished,10.0,51,1,20,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,TSU,22,Red Bull Racing,6,6,6,Finished,8.0,51,1,38,2,HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,NOR,4,McLaren,7,7,7,Finished,6.0,51,1,37,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,HAM,44,Ferrari,12,8,8,Finished,4.0,51,1,36,2,HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,LEC,16,Ferrari,10,9,9,Finished,2.0,51,1,19,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,HAD,6,Racing Bulls,8,10,10,Finished,1.0,51,1,29,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,BOR,5,Kick Sauber,13,11,11,Finished,0.0,51,1,26,2,HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,BEA,87,Haas F1 Team,15,12,12,Finished,0.0,51,1,28,2,HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,ALB,23,Williams,19,13,13,Finished,0.0,51,2,1,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,OCO,31,Haas F1 Team,20,14,14,Finished,0.0,51,2,1,3,HARD->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,ALO,14,Aston Martin,11,15,15,Finished,0.0,51,1,21,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,HUL,27,Kick Sauber,17,16,16,Finished,0.0,51,1,36,2,HARD->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,STR,18,Aston Martin,14,17,17,Finished,0.0,51,1,37,2,MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,GAS,10,Alpine,18,18,18,Lapped,0.0,50,1,35,2,HARD->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,COL,43,Alpine,16,19,19,Lapped,0.0,50,1,16,2,MEDIUM->HARD,True,False,False,False,False,True,False,True,True
+2025,17,Azerbaijan Grand Prix,Azerbaijan,Baku,51,PIA,81,McLaren,9,20,R,Retired,0.0,0,0,,1,MEDIUM,True,False,False,False,True,False,False,False,False
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,RUS,63,Mercedes,1,1,1,Finished,25.0,62,1,25,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,VER,1,Red Bull Racing,2,2,2,Finished,18.0,62,1,19,2,SOFT->HARD,False,False,False,False,False,False,True,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,NOR,4,McLaren,5,3,3,Finished,15.0,62,1,26,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,PIA,81,McLaren,3,4,4,Finished,12.0,62,1,27,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,ANT,12,Mercedes,4,5,5,Finished,10.0,62,1,25,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,LEC,16,Ferrari,7,6,6,Finished,8.0,62,1,21,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,ALO,14,Aston Martin,10,7,7,Finished,6.0,62,1,27,2,SOFT->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,HAM,44,Ferrari,6,8,8,Finished,4.0,62,2,24,3,MEDIUM->HARD->SOFT,False,False,False,False,False,False,True,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,BEA,87,Haas F1 Team,9,9,9,Finished,2.0,62,1,23,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,SAI,55,Williams,18,10,10,Lapped,1.0,61,1,50,2,MEDIUM->SOFT,False,False,False,False,False,True,False,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,HAD,6,Racing Bulls,8,11,11,Lapped,0.0,61,1,20,2,SOFT->HARD,False,False,False,False,False,True,False,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,TSU,22,Red Bull Racing,13,12,12,Lapped,0.0,61,1,13,2,SOFT->HARD,False,False,False,False,False,True,False,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,STR,18,Aston Martin,15,13,13,Lapped,0.0,61,1,38,2,SOFT->MEDIUM,False,False,False,False,False,True,False,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,ALB,23,Williams,20,14,14,Lapped,0.0,61,1,42,2,MEDIUM->SOFT,False,False,False,False,False,True,False,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,LAW,30,Racing Bulls,12,15,15,Lapped,0.0,61,1,48,2,MEDIUM->SOFT,False,False,False,False,False,True,False,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,COL,43,Alpine,16,16,16,Lapped,0.0,61,1,14,2,SOFT->MEDIUM,False,False,False,False,False,True,False,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,BOR,5,Kick Sauber,14,17,17,Lapped,0.0,61,1,13,2,MEDIUM->HARD,False,False,False,False,False,True,False,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,OCO,31,Haas F1 Team,17,18,18,Lapped,0.0,61,1,30,2,MEDIUM->HARD,False,False,False,False,False,True,False,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,GAS,10,Alpine,19,19,19,Lapped,0.0,61,2,24,3,MEDIUM->HARD->SOFT,False,False,False,False,False,True,False,True,True
+2025,18,Singapore Grand Prix,Singapore,Marina Bay,62,HUL,27,Kick Sauber,11,20,20,Lapped,0.0,61,2,25,3,MEDIUM->HARD->SOFT,False,False,False,False,False,True,False,True,True
+2025,19,United States Grand Prix,United States,Austin,56,VER,1,Red Bull Racing,1,1,1,Finished,25.0,56,1,33,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,NOR,4,McLaren,2,2,2,Finished,18.0,56,1,32,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,LEC,16,Ferrari,3,3,3,Finished,15.0,56,1,22,2,SOFT->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,HAM,44,Ferrari,5,4,4,Finished,12.0,56,1,31,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,PIA,81,McLaren,6,5,5,Finished,10.0,56,1,30,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,RUS,63,Mercedes,4,6,6,Finished,8.0,56,1,33,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,TSU,22,Red Bull Racing,13,7,7,Finished,6.0,56,1,29,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,HUL,27,Kick Sauber,11,8,8,Finished,4.0,56,1,33,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,BEA,87,Haas F1 Team,8,9,9,Finished,2.0,56,1,30,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,ALO,14,Aston Martin,10,10,10,Finished,1.0,56,1,30,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,LAW,30,Racing Bulls,12,11,11,Finished,0.0,56,1,30,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,STR,18,Aston Martin,19,12,12,Finished,0.0,56,1,28,2,SOFT->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,ANT,12,Mercedes,7,13,13,Finished,0.0,56,1,31,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,ALB,23,Williams,18,14,14,Finished,0.0,56,2,7,3,HARD->MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,OCO,31,Haas F1 Team,17,15,15,Finished,0.0,56,1,24,2,HARD->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,HAD,6,Racing Bulls,20,16,16,Finished,0.0,56,1,28,2,HARD->SOFT,False,True,False,False,False,False,True,True,True
+2025,19,United States Grand Prix,United States,Austin,56,COL,43,Alpine,15,17,17,Lapped,0.0,55,1,32,2,MEDIUM->SOFT,False,True,False,False,False,True,False,True,True
+2025,19,United States Grand Prix,United States,Austin,56,BOR,5,Kick Sauber,16,18,18,Lapped,0.0,55,2,14,3,SOFT->MEDIUM->SOFT,False,True,False,False,False,True,False,True,True
+2025,19,United States Grand Prix,United States,Austin,56,GAS,10,Alpine,14,19,19,Lapped,0.0,55,1,27,2,MEDIUM->SOFT,False,True,False,False,False,True,False,True,True
+2025,19,United States Grand Prix,United States,Austin,56,SAI,55,Williams,9,20,R,Retired,0.0,5,0,,1,MEDIUM,False,True,False,False,True,False,False,False,False
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,NOR,4,McLaren,1,1,1,Finished,25.0,71,1,34,2,SOFT->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,LEC,16,Ferrari,2,2,2,Finished,18.0,71,1,31,2,SOFT->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,VER,1,Red Bull Racing,5,3,3,Finished,15.0,71,1,37,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,BEA,87,Haas F1 Team,9,4,4,Finished,12.0,71,2,24,3,SOFT->MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,PIA,81,McLaren,7,5,5,Finished,10.0,71,2,24,3,SOFT->MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,ANT,12,Mercedes,6,6,6,Finished,8.0,71,2,22,3,SOFT->MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,RUS,63,Mercedes,4,7,7,Finished,6.0,71,2,25,3,SOFT->MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,HAM,44,Ferrari,3,8,8,Finished,4.0,71,2,23,3,SOFT->MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,OCO,31,Haas F1 Team,11,9,9,Finished,2.0,71,1,27,2,SOFT->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,BOR,5,Kick Sauber,16,10,10,Finished,1.0,71,1,37,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,TSU,22,Red Bull Racing,10,11,11,Finished,0.0,71,1,36,2,MEDIUM->SOFT,False,True,False,False,False,False,True,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,ALB,23,Williams,17,12,12,Lapped,0.0,70,1,41,2,HARD->SOFT,False,True,False,False,False,True,False,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,HAD,6,Racing Bulls,8,13,13,Lapped,0.0,70,1,34,2,MEDIUM->SOFT,False,True,False,False,False,True,False,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,STR,18,Aston Martin,19,14,14,Lapped,0.0,70,2,26,3,SOFT->MEDIUM->SOFT,False,True,False,False,False,True,False,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,GAS,10,Alpine,18,15,15,Lapped,0.0,70,1,33,2,MEDIUM->SOFT,False,True,False,False,False,True,False,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,COL,43,Alpine,20,16,16,Lapped,0.0,70,1,48,2,HARD->SOFT,False,True,False,False,False,True,False,True,True
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,SAI,55,Williams,12,17,17,Retired,0.0,67,3,17,4,MEDIUM->SOFT->SOFT->SOFT,False,True,False,False,True,False,False,True,False
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,ALO,14,Aston Martin,14,18,R,Retired,0.0,34,2,20,2,SOFT->MEDIUM,False,True,False,False,True,False,False,False,False
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,HUL,27,Kick Sauber,13,19,R,Retired,0.0,25,1,25,1,SOFT,False,True,False,False,True,False,False,False,False
+2025,20,Mexico City Grand Prix,Mexico,Mexico City,71,LAW,30,Racing Bulls,15,20,R,Retired,0.0,5,2,2,2,SOFT->HARD,False,True,False,False,True,False,False,False,False
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,NOR,4,McLaren,1,1,1,Finished,25.0,71,2,30,3,MEDIUM->SOFT->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,ANT,12,Mercedes,2,2,2,Finished,18.0,71,2,21,3,SOFT->MEDIUM->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,VER,1,Red Bull Racing,19,3,3,Finished,15.0,71,3,7,4,HARD->MEDIUM->MEDIUM->SOFT,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,RUS,63,Mercedes,6,4,4,Finished,12.0,71,2,34,3,MEDIUM->SOFT->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,PIA,81,McLaren,4,5,5,Finished,10.0,71,2,38,3,MEDIUM->SOFT->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,BEA,87,Haas F1 Team,8,6,6,Finished,8.0,71,2,17,3,SOFT->MEDIUM->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,LAW,30,Racing Bulls,7,7,7,Finished,6.0,71,1,19,2,SOFT->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,HAD,6,Racing Bulls,5,8,8,Finished,4.0,71,2,18,3,SOFT->MEDIUM->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,HUL,27,Kick Sauber,10,9,9,Finished,2.0,71,1,36,2,MEDIUM->SOFT,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,GAS,10,Alpine,9,10,10,Finished,1.0,71,2,18,3,SOFT->MEDIUM->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,ALB,23,Williams,12,11,11,Finished,0.0,71,2,35,3,MEDIUM->SOFT->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,OCO,31,Haas F1 Team,20,12,12,Finished,0.0,71,2,8,3,HARD->MEDIUM->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,SAI,55,Williams,15,13,13,Finished,0.0,71,2,17,3,SOFT->MEDIUM->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,ALO,14,Aston Martin,11,14,14,Finished,0.0,71,2,28,3,HARD->MEDIUM->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,COL,43,Alpine,16,15,15,Finished,0.0,71,2,29,3,MEDIUM->SOFT->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,STR,18,Aston Martin,14,16,16,Finished,0.0,71,2,29,3,HARD->MEDIUM->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,TSU,22,Red Bull Racing,17,17,17,Finished,0.0,71,3,2,4,HARD->MEDIUM->MEDIUM->MEDIUM,True,True,False,False,False,False,True,True,True
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,HAM,44,Ferrari,13,18,R,Retired,0.0,37,4,2,4,SOFT->HARD->MEDIUM->MEDIUM,True,True,False,False,True,False,False,False,False
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,LEC,16,Ferrari,3,19,R,Retired,0.0,5,0,,1,MEDIUM,True,True,False,False,True,False,False,False,False
+2025,21,São Paulo Grand Prix,Brazil,São Paulo,71,BOR,5,Kick Sauber,18,20,R,Retired,0.0,0,0,,1,SOFT,True,True,False,False,True,False,False,False,False
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,VER,1,Red Bull Racing,2,1,1,Finished,25.0,50,1,25,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,RUS,63,Mercedes,4,2,2,Finished,18.0,50,1,17,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,ANT,12,Mercedes,17,3,3,Finished,15.0,50,1,2,2,SOFT->HARD,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,LEC,16,Ferrari,9,4,4,Finished,12.0,50,1,24,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,SAI,55,Williams,3,5,5,Finished,10.0,50,1,22,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,HAD,6,Racing Bulls,8,6,6,Finished,8.0,50,1,20,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,HUL,27,Kick Sauber,11,7,7,Finished,6.0,50,1,30,2,HARD->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,HAM,44,Ferrari,19,8,8,Finished,4.0,50,1,29,2,HARD->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,OCO,31,Haas F1 Team,13,9,9,Finished,2.0,50,1,27,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,BEA,87,Haas F1 Team,14,10,10,Finished,1.0,50,1,17,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,ALO,14,Aston Martin,7,11,11,Finished,0.0,50,1,16,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,TSU,22,Red Bull Racing,20,12,12,Finished,0.0,50,2,1,3,MEDIUM->HARD->MEDIUM,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,GAS,10,Alpine,10,13,13,Finished,0.0,50,1,2,2,MEDIUM->HARD,False,True,False,False,False,False,True,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,LAW,30,Racing Bulls,6,14,14,Lapped,0.0,49,2,2,3,MEDIUM->HARD->HARD,False,True,False,False,False,True,False,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,COL,43,Alpine,15,15,15,Lapped,0.0,49,1,25,2,HARD->MEDIUM,False,True,False,False,False,True,False,True,True
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,ALB,23,Williams,16,16,R,Retired,0.0,35,4,13,4,HARD->MEDIUM->HARD->MEDIUM,False,True,False,False,True,False,False,False,False
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,BOR,5,Kick Sauber,18,17,R,Retired,0.0,2,2,1,2,HARD->MEDIUM,False,True,False,False,True,False,False,False,False
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,STR,18,Aston Martin,12,18,R,Retired,0.0,0,0,,1,MEDIUM,False,True,False,False,True,False,False,False,False
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,NOR,4,McLaren,1,19,D,Disqualified,0.0,50,1,22,2,MEDIUM->HARD,False,True,False,True,False,False,False,False,False
+2025,22,Las Vegas Grand Prix,United States,Las Vegas,50,PIA,81,McLaren,5,20,D,Disqualified,0.0,50,1,21,2,MEDIUM->HARD,False,True,False,True,False,False,False,False,False
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,VER,1,Red Bull Racing,3,1,1,Finished,25.0,57,2,7,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,PIA,81,McLaren,1,2,2,Finished,18.0,57,2,24,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,SAI,55,Williams,7,3,3,Finished,15.0,57,2,7,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,NOR,4,McLaren,2,4,4,Finished,12.0,57,2,25,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,ANT,12,Mercedes,5,5,5,Finished,10.0,57,2,7,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,RUS,63,Mercedes,4,6,6,Finished,8.0,57,2,7,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,ALO,14,Aston Martin,8,7,7,Finished,6.0,57,2,7,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,LEC,16,Ferrari,10,8,8,Finished,4.0,57,2,7,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,LAW,30,Racing Bulls,12,9,9,Finished,2.0,57,2,7,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,TSU,22,Red Bull Racing,15,10,10,Finished,1.0,57,2,7,3,MEDIUM->MEDIUM->HARD,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,ALB,23,Williams,14,11,11,Finished,0.0,57,2,7,3,HARD->MEDIUM->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,HAM,44,Ferrari,17,12,12,Finished,0.0,57,2,7,3,SOFT->MEDIUM->MEDIUM,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,BOR,5,Kick Sauber,19,13,13,Finished,0.0,57,2,7,3,MEDIUM->MEDIUM->SOFT,True,False,False,False,False,False,True,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,COL,43,Alpine,20,14,14,Lapped,0.0,56,2,7,3,HARD->MEDIUM->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,OCO,31,Haas F1 Team,16,15,15,Lapped,0.0,56,3,8,4,MEDIUM->HARD->MEDIUM->HARD,True,False,False,False,False,True,False,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,GAS,10,Alpine,9,16,16,Lapped,0.0,56,2,7,3,MEDIUM->HARD->MEDIUM,True,False,False,False,False,True,False,True,True
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,STR,18,Aston Martin,18,17,17,Retired,0.0,55,4,7,4,MEDIUM->MEDIUM->MEDIUM->SOFT,True,False,False,False,True,False,False,True,False
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,HAD,6,Racing Bulls,6,18,18,Retired,0.0,55,3,7,3,MEDIUM->MEDIUM->HARD,True,False,False,False,True,False,False,True,False
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,BEA,87,Haas F1 Team,13,19,R,Retired,0.0,41,4,7,4,MEDIUM->MEDIUM->HARD->HARD,True,False,False,False,True,False,False,False,False
+2025,23,Qatar Grand Prix,Qatar,Lusail,57,HUL,27,Kick Sauber,11,20,R,Retired,0.0,6,0,,1,SOFT,True,False,False,False,True,False,False,False,False
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,VER,1,Red Bull Racing,1,1,1,Finished,25.0,58,1,23,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,PIA,81,McLaren,3,2,2,Finished,18.0,58,1,41,2,HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,NOR,4,McLaren,2,3,3,Finished,15.0,58,2,16,3,MEDIUM->HARD->HARD,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,LEC,16,Ferrari,5,4,4,Finished,12.0,58,2,16,3,MEDIUM->HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,RUS,63,Mercedes,4,5,5,Finished,10.0,58,1,14,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,ALO,14,Aston Martin,6,6,6,Finished,8.0,58,1,16,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,OCO,31,Haas F1 Team,8,7,7,Finished,6.0,58,1,19,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,HAM,44,Ferrari,16,8,8,Finished,4.0,58,2,8,3,SOFT->HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,HUL,27,Kick Sauber,18,9,9,Finished,2.0,58,2,7,3,SOFT->HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,STR,18,Aston Martin,15,10,10,Finished,1.0,58,1,42,2,HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,BOR,5,Kick Sauber,7,11,11,Finished,0.0,58,1,15,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,BEA,87,Haas F1 Team,11,12,12,Finished,0.0,58,1,14,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,SAI,55,Williams,12,13,13,Finished,0.0,58,1,18,2,MEDIUM->HARD,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,TSU,22,Red Bull Racing,10,14,14,Finished,0.0,58,1,32,2,HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,ANT,12,Mercedes,14,15,15,Finished,0.0,58,1,32,2,HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,ALB,23,Williams,17,16,16,Finished,0.0,58,2,8,3,SOFT->HARD->MEDIUM,False,False,False,False,False,False,True,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,HAD,6,Racing Bulls,9,17,17,Lapped,0.0,57,1,14,2,MEDIUM->HARD,False,False,False,False,False,True,False,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,LAW,30,Racing Bulls,13,18,18,Lapped,0.0,57,1,21,2,MEDIUM->HARD,False,False,False,False,False,True,False,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,GAS,10,Alpine,19,19,19,Lapped,0.0,57,2,13,3,MEDIUM->HARD->MEDIUM,False,False,False,False,False,True,False,True,True
+2025,24,Abu Dhabi Grand Prix,United Arab Emirates,Yas Island,58,COL,43,Alpine,20,20,20,Lapped,0.0,57,2,15,3,MEDIUM->HARD->MEDIUM,False,False,False,False,False,True,False,True,True
