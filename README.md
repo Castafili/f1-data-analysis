@@ -1,5 +1,11 @@
 # F1 Pit Stop Strategy Analysis (2025 Season)
 
+[![Streamlit App](https://img.shields.io/badge/Live_Dashboard-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://f1-strategy-telemetry.streamlit.app/)
+[![Python](https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![FastF1](https://img.shields.io/badge/Data-FastF1_API-E10600?style=for-the-badge&logo=f1&logoColor=white)](https://docs.fastf1.dev/)
+[![Statsmodels](https://img.shields.io/badge/Econometrics-Statsmodels_%7C_SciPy-150458?style=for-the-badge)](https://www.statsmodels.org/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-F5C542?style=for-the-badge)](LICENSE)
+
 Statistical and econometric analysis of Formula 1 pit stop strategies and their impact on race outcomes across all 24 Grands Prix of the 2025 FIA Formula One World Championship.
 
 **[Live Interactive Telemetry Dashboard](https://f1-strategy-telemetry.streamlit.app)**
