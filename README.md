@@ -66,7 +66,7 @@ How do pit stop frequency and relative pit-window timing affect driver grid-to-f
 - [x] Feature engineering (relative pit timing, race-median deviations, circuit profiles)
 - [x] Non-parametric hypothesis tests (`scipy`) and HC3-robust regression (`statsmodels`)
 - [x] Automated diagnostic visualization suite (`plots/`)
-- [ ] Interactive web dashboard (`app/`)
+- [x] Interactive web dashboard (`app/streamlit_app.py`)
 
 ## Contact
 **Filippo Castagnola** — fi.castagnola@gmail.com
