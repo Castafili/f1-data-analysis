@@ -1,0 +1,4 @@
+test,statistic,p_value,n_obs
+Kruskal-Wallis: Position Delta across Strategy Groups,0.082,0.9598,388
+Kruskal-Wallis: Position Delta across Pit Timing Windows,4.7456,0.0932,388
+Spearman Correlation: Relative First Pit Lap vs Position Delta,0.0406,0.4256,388

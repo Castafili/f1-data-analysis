@@ -1,0 +1,4 @@
+strategy_group,count,mean,median,std
+1-stop,202,0.96,0.0,3.384
+2-stop,158,0.949,1.0,4.099
+3+-stop,28,0.964,0.5,5.323

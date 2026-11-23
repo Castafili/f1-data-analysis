@@ -1,0 +1,4 @@
+pit_timing_window,count,mean,median,std
+Early (<= -3 laps),105,1.162,0.0,4.652
+Late (>= +3 laps),114,1.553,1.0,3.31
+Standard (-2 to +2 laps),169,0.426,0.0,3.555
